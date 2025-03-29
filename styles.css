@@ -1,0 +1,36 @@
+h3{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+/* found a new way to comment in css*/
+/*I created a black backdrop with white text for the first paragraph*/
+p{text-align: center;
+color: white;
+background-color: black;
+}
+/* visited link*/
+a:visited{color: rgb(62, 172, 171);
+}
+/* Mouse over link*/
+a:hover{color: pink;
+}
+/*selected link*/
+a:active{color: blue;}
+img {border-color: blueviolet;
+border-style: double;
+border-width:1ch;}
+h1 {font-style: oblique;
+font-variant: small-caps;
+color:blueviolet;}
+table {font-style: italic;
+color: brown;}
+h2 {font:small-caps;
+color: blueviolet;}
+h4 {font-style: italic;
+color: blueviolet;}
+ol {color: blueviolet;
+outline-style:dotted;}
+form {color: blueviolet;
+    font-style: italic;
+font: bolder;}
